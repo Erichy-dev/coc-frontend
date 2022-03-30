@@ -1,0 +1,1 @@
+import{_ as e}from"./main.e2f35410.js";import{o,c as t,b as r}from"./vendor-768b8674.js";const s={},c=r("h1",null,"This is the support page",-1),a=[c];function n(_,p){return o(),t("div",null,a)}var d=e(s,[["render",n]]);export{d as default};

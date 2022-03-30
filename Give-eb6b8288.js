@@ -1,0 +1,1 @@
+import{_ as e}from"./main.e2f35410.js";import{o,c as t,b as c}from"./vendor-768b8674.js";const r={},n=c("h1",null,"Thank You for chosing to give",-1),s=[n];function a(_,i){return o(),t("div",null,s)}var d=e(r,[["render",a]]);export{d as default};

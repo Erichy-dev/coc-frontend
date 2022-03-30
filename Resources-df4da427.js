@@ -1,0 +1,1 @@
+import{_ as e}from"./main.e2f35410.js";import{o as s,c as o,b as r}from"./vendor-768b8674.js";const c={},t=r("h1",null,"This is the resources page",-1),a=[t];function n(_,i){return s(),o("div",null,a)}var f=e(c,[["render",n]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./main.e2f35410.js";import{o as t,c as s,b as o}from"./vendor-768b8674.js";const c={},n=o("h1",null,"This is the events page",-1),r=[n];function a(_,i){return t(),s("div",null,r)}var f=e(c,[["render",a]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./main.e2f35410.js";import{o,c as s,b as r}from"./vendor-768b8674.js";const t={},c=r("h1",null,"This is the sermons page",-1),n=[c];function a(_,i){return o(),s("div",null,n)}var d=e(t,[["render",a]]);export{d as default};

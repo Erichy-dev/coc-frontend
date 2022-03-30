@@ -1,0 +1,1 @@
+import{_ as e}from"./main.e2f35410.js";import{o as s,c as t,b as _}from"./vendor-768b8674.js";const i={},r=_("h1",null,"This is the ministries page",-1),n=[r];function o(a,c){return s(),t("div",null,n)}var f=e(i,[["render",o]]);export{f as default};
